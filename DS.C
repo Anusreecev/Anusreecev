@@ -1,3 +1,5 @@
+ARRAY DELETION
+----------------
 #include<stdio.h>
 void main()
 {
